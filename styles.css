@@ -1,0 +1,31 @@
+body{
+    background-image: url(background.jpeg);
+    background-attachment: fixed;
+    background-size: no-repeat;
+    color:aliceblue
+}
+#About-Me{
+    color: rgb(255, 248, 152);
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(59, 217, 234);
+}
+img{
+    width: 200px;
+    height: 200px; 
+}
+#Portfolio{
+rgb(59, 234, 155);
+
+}
+#Experience{
+ rgb(100, 59, 234);
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+
+}
+#Goals{
+ rgb(234, 214, 59);
+ background-color: black;
+}
